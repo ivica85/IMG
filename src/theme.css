@@ -1,0 +1,12 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  .heart {
+    padding: 1rem 75.5rem;
+  }
+  .image{
+    border-bottom: 1px solid grey;
+    padding: 180px;
+    border: 1px solid black;
+  }
